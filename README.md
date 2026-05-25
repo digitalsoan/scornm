@@ -1,6 +1,8 @@
 # scornm
 SCORNM is New Gen CRM built by Pranav Soan Founder of DGson - Digital Marketing Agency
 
+crm website: https://seashell-kangaroo-681584.hostingersite.com/
+APK Link: https://github.com/Junkievirus/scornm/raw/main/dgcrm-latest.apk
 
 License & Terms of Use
 
