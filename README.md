@@ -2,7 +2,7 @@
 scornm is New Gen CRM built by Pranav Soan Founder of DGson - Digital Marketing Agency
 
 crm website: https://scornm.com/
-APK Link: https://github.com/digitalsoan/scornm/raw/main/scornm.apk
+APK Link: https://github.com/digitalsoan/scornm/releases/latest
 
 License & Terms of Use
 
